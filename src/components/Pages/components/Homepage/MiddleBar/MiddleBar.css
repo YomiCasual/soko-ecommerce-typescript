@@ -1,0 +1,40 @@
+
+.middle-component {
+        transform: translateY(-20px);
+        padding-right: 1rem
+
+}
+
+.card-item {
+    padding: 0.5rem 0
+}
+
+.card-item .card-image {
+    height: 100px;
+    width: 100px;
+}
+
+.card-item img {
+    width: 100%;
+    object-fit:  contain;
+    border-radius: 6px;
+}
+
+.card-content {
+    padding: 0.5rem 1;
+    color: var(--primary-ash);
+}
+
+.card-content h4 {
+    color: rgb(97, 96, 96);
+}
+
+.card-content p {
+    margin-bottom: 0;
+}
+
+.middleBar-overflow {
+    height: 80vh;
+    overflow-y: auto;
+    overflow-x: hidden;
+}

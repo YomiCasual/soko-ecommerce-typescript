@@ -1,0 +1,21 @@
+.rightbar-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3rem;
+}
+.rightbar-content img {
+    height: 100px;
+    filter: grayscale(1.0);
+}
+
+.rightbar-content h3 {
+    margin-top: 1rem;
+    color: var(--tertiary-ash)
+}
+
+.rightbar-content p {
+    color: var(--primary-ash)
+}
+

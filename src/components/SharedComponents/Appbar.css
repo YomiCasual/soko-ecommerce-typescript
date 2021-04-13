@@ -1,0 +1,47 @@
+/* AppBar CSS */
+.appbar {
+	padding: 1rem;
+	color: var(--primary-white) !important;
+	font-size: 13px;
+}
+
+a {
+    color: white
+}
+
+.appbar p {
+	margin-bottom: 0;
+    color: white!important
+}
+
+.topbar {
+	padding: 1rem;
+	margin-bottom: 1.5rem;
+}
+
+.topbar-left {
+	display: flex;
+	align-items: center;
+}
+
+.topbar-right {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.topbar-right .menu {
+	display: flex;
+}
+
+.topbar-right .icon {
+	font-size: 24px;
+	color: var(--primary-ash);
+}
+
+.topbar-right .menu-text {
+	color: var(--primary-ash);
+	font-size: 16px;
+    margin-left: 0.5rem;
+    margin-right: 1rem
+}

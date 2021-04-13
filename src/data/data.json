@@ -1,0 +1,109 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Radio",
+            "price": 7500,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Power Bank",
+            "price": 120000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Infinix Hot Note 5",
+            "price": 200000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Power Bank",
+            "price": 7500,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Laptop",
+            "price": 290000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Monitor",
+            "price": 180000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Headset",
+            "price": 45000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Monitor",
+            "price": 7500,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Iphone X",
+            "price": 950000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Oraimo Headset",
+            "price": 4900,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Loudspeaker",
+            "price": 72500,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Laptop",
+            "price": 750000,
+            "category": "electronics",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 13,
+            "name": "2px face masks",
+            "price": 7500,
+            "category": "Face masks",
+            "image": "../images/product-image-1.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Medical face masks",
+            "price": 59000,
+            "category": "Face masks",
+            "image": "images/product-image-1.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Linen Cloth face masks",
+            "price": 3000,
+            "category": "Face masks",
+            "image": "../images/product-image-1.jpg"
+        }
+    ]
+}
